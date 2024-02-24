@@ -13,19 +13,32 @@ Python libraries: pandas, matplotlib, seaborn, scikit-learn
 
 The analysis is performed on the 'weather.csv' dataset. 
 
-**To install the required libraries: **
+**To install the required libraries:**
 
 Run the following command:
 pip install pandas matplotlib seaborn scikit-learn
 
 
 **Analysis Steps:**
-**Data Exploration:** Display dataset information.
-**Data Visualization:** Create pair plots to visualize numeric variable relationships.
-**Feature Engineering (if needed):** Create 'temperature_category' based on temperature ranges.
-**Data Analysis:** Calculate mean and standard deviation of 'Rainfall'.
-**Data Visualization (Part 2):** Visualize distribution of 'MaxTemp' and 'MinTemp'.
-**Advanced Analysis:** Rainfall prediction using Linear Regression.
+
+**Data Exploration:** 
+Display dataset information.
+
+**Data Visualization:**
+Create pair plots to visualize numeric variable relationships.
+
+**Feature Engineering (if needed):**
+Create 'temperature_category' based on temperature ranges.
+
+**Data Analysis:**
+Calculate mean and standard deviation of 'Rainfall'.
+
+**Data Visualization (Part 2):**
+Visualize distribution of 'MaxTemp' and 'MinTemp'.
+
+**Advanced Analysis:** 
+Rainfall prediction using Linear Regression.
+
 
 **Conclusions and Insights:**
 
